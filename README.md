@@ -148,8 +148,4 @@ A detailed analysis report is available in both PDF and DOCX formats (`Report.pd
 
 ## Author
 
-Toufi
-
-## License
-
-This project is for educational and analytical purposes.
+Toufic Jandah 
